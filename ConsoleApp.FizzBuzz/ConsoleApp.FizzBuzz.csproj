@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary.FizzBuzz.GameEngine\FizzBuzz.GameEngine.csproj" />
+  </ItemGroup>
+
 </Project>
