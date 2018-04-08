@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary.FizzBuzz.GameEngine\FizzBuzz.GameEngine.csproj" />
+    <ProjectReference Include="..\FizzBuzz.GameEngine\FizzBuzz.GameEngine.csproj" />
   </ItemGroup>
 
 </Project>

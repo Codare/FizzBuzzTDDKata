@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.FizzBuzz", "ConsoleApp.FizzBuzz\ConsoleApp.FizzBuzz.csproj", "{9F65D6BC-60C6-4213-950D-DE34EC4A11BE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.FizzBuzz", "XUnitTestProject.FizzBuzz\Tests.FizzBuzz.csproj", "{975CC43B-21E0-4E3A-A269-861137245568}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests.FizzBuzz", "Tests.FizzBuzz\Tests.FizzBuzz.csproj", "{975CC43B-21E0-4E3A-A269-861137245568}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz.GameEngine", "ClassLibrary.FizzBuzz.GameEngine\FizzBuzz.GameEngine.csproj", "{7D84DC7D-3B89-4A96-B162-F07587DF371B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz.GameEngine", "FizzBuzz.GameEngine\FizzBuzz.GameEngine.csproj", "{7D84DC7D-3B89-4A96-B162-F07587DF371B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
